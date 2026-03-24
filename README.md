@@ -182,7 +182,12 @@ search: {
 <h4 id="pY8hy">修改gitHub链接</h4>
 ![](https://cdn.nlark.com/yuque/0/2026/png/32453020/1774318876311-361df8ff-6064-4924-ac3d-85b1a042369c.png)
 
+
+
 <h3 id="yVxGw">部署到github page</h3>
+[https://vitepress.dev/zh/guide/deploy](https://vitepress.dev/zh/guide/deploy)
+
+
 
 
 
