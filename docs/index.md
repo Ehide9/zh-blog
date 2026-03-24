@@ -7,7 +7,7 @@ hero:
   text: "个人技术博客"
   tagline: 分享技术和个人成长
   image:
-    src: /index-blog.svg
+    src: docs/index-blog.svg
     alt: VitePress
   actions:
     - theme: brand
