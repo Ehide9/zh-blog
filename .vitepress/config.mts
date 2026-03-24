@@ -7,6 +7,7 @@ export default defineConfig({
   title: "ZH-Blog",
   description: "个人博客网站",
   themeConfig: {
+    logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
