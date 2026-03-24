@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  srcDir: "docs",
   base: '/zh-blog/',
+  head: [["link", { rel: "icon", href: "/logo.svg" }]],
   title: "ZH-Blog",
   description: "个人博客网站",
   themeConfig: {
-    logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
+    logo: "logo.svg",
     nav: [
       { text: '首页', link: '/' },
       {

@@ -1,1 +1,0 @@
-import{_ as i,o as a,c as o,ak as n}from"./chunks/framework.BxL5Xhi-.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ai/AI核心概念.md","filePath":"ai/AI核心概念.md"}'),t={name:"ai/AI核心概念.md"};function e(r,l,s,g,p,c){return a(),o("div",null,[...l[0]||(l[0]=[n("",33)])])}const _=i(t,[["render",e]]);export{d as __pageData,_ as default};
