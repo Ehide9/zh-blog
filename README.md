@@ -52,8 +52,6 @@ npx vitepress init
 <h4 id="c5MVZ">主页</h4>
 修改主页内容，可以直接把需要修改的内容圈出，并把图片给ai分析
 
-![](https://cdn.nlark.com/yuque/0/2026/png/32453020/1774258874261-6b837038-cfe5-4c67-8451-7b589fb48067.png)
-
 ![](https://cdn.nlark.com/yuque/0/2026/png/32453020/1774259511976-1e0d7dff-b965-4d94-9cd1-4317469ce5bf.png)
 
 可以看到是通过index文件修改，调整一下具体内容，同时修改一下首页字体样式，并确认修改
