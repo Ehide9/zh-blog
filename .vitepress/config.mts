@@ -38,7 +38,7 @@ export default defineConfig({
         items: [
           {
             text: 'AI概念',
-            link: '/ai/AI概念.md'
+            link: '/ai/AI核心概念.md'
           }
         ]
       },
@@ -77,6 +77,15 @@ export default defineConfig({
           {
             text: 'Java',
             link: '/backend/java'
+          }
+        ]
+      },
+      {
+        text: 'AI',
+        items: [
+          {
+            text: 'AI概念',
+            link: '/ai/AI核心概念'
           }
         ]
       },
