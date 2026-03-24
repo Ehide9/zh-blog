@@ -25,7 +25,3 @@ features:
   - title: 技术分享
     details: 交流编程思想、工具使用和项目实战经验
 ---
-
-## 图片测试
-
-![测试图片](/background.svg)
